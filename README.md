@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+[![An image of 
+@zirdl's Holopin badges, which is a link to view their full Holopin 
+profile](https://holopin.me/zirdl)](https://holopin.io/@zirdl)
+### I'm zirdl, a 2nd year Uni student in the Philippines who likes to just chill and write.
++ 🔭 I'm currently working on my [website](https://zirdl.github.io/)
++ 🧑🏻‍💻 I'm also a Hacktoberfest 2023 participant (a beginner tho)
 
 <!--
 **zirdl/zirdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
