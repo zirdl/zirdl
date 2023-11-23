@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Gio, a 2nd year Uni student in the Philippines who likes to just chill and write.
+### I'm Gio, a 2nd year Uni student in the Philippines who likes to just code, write, and chill.
 + 🔭 I'm currently working on my [website](https://zirdl.github.io/)
 
 <!--
